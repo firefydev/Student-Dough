@@ -11,7 +11,7 @@ As a university student, there are so many aspects in life to juggle such as sch
 StudentDough is a web application that provides students with the latest, hottest, student deals and discounts, along with an added bonus of a budget tracker where students can personally set goals. They can create multiple buckets of how they wish to spilt their finances and add and remove expenses relating to each bucket. 
 
 ## How we built it
-This was built using HTML, CSS, JavaScript, React, and BootStrap, on the VS Code platform.
+This was built using HTML, CSS, JavaScript, React, and BootStrap, on VS Code.
 
 ## What's next for StudentDough
 We hope to advance our student discount deals section to include improved real-time data updates and expand provided resources on our application.
